@@ -5,10 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently exploring different languages
+- 🔭 I’m currently learning Python!
 - 🤝 I’m completing my Bachelor of Commerce
 - 🐵🐻 Enrolled in the University of Alberta
 - 💬 Ask me about how my SQL understanding is going!
 - 📫 How to reach me: karamjas@ualberta.ca
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I ironically think CS:GO and LOL is fun 🫤
+- ⚡ Fun fact: I play CS:GO all the time 😀
