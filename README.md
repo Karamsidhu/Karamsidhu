@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently learning Python!
-- 🤝 I’m completing my Bachelor of Commerce
-- 🐵🐻 Enrolled in the University of Alberta
+I'm Karam, a Bachelor of Commerce graduate interested in project management, business strategy, and data analytics.
+
+- 🔭 I’m currently learning Information Technology & OS Concepts
+- 🤝 University of Alberta, BCom - Business Technology Management, Computer Science
 - 📫 How to reach me: karamjas@ualberta.ca
-- ⚡ Fun fact: I play CS:GO all the time 😀
+- ⚡ Fun fact: I play TCG like Union Arena, One Piece & Dragon Ball =)
