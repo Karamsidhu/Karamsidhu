@@ -9,5 +9,5 @@ I'm Karam, a Bachelor of Commerce graduate interested in project management, bus
 
 - 🔭 I’m currently learning Information Technology & OS Concepts
 - 🤝 University of Alberta, BCom - Business Technology Management, Computer Science
-- 📫 How to reach me: karamjas@ualberta.ca
+- 📫 How to reach me: karam02sidhu@gmail.com
 - ⚡ Fun fact: I play TCG like Union Arena, One Piece & Dragon Ball =)
