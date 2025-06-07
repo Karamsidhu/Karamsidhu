@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<!--
-**Karamsidhu/Karamsidhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
 
-Here are some ideas to get you started:
--->
 I'm Karam, a Bachelor of Commerce graduate interested in project management, business strategy, and data analytics.
 
 - 🔭 I’m currently learning Information Technology & OS Concepts
