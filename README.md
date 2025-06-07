@@ -13,8 +13,8 @@
 
 ###  a Bachelor of Commerce graduate interested in project management, business strategy, and data analytics.
 
-- 🌱 I’m currently learning **[System Design](https://karam-sidhu.com/)**
-- 💬 Ask me about **R, C, React...or anything [here](https://github.com/Karamsidhu/Karamsidhu/issues)**
+- 🌱 Check out my **[Website](https://karam-sidhu.com/)**
+- 💬 Ask me about **R, C, React...or anything [here!](https://github.com/Karamsidhu/Karamsidhu/issues)**
 
 <br>
 
@@ -24,9 +24,6 @@
   </a>
   <a href="https://www.linkedin.com/in/karam-sidhu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://karam-sidhu.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -38,7 +35,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=r,c,react,ts,nodejs,sql,postgres" />
+  <img src="https://skillicons.dev/icons?i=r,c,react,postgres,python" />
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,git" />
 </p>
 
