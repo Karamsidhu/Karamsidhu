@@ -1,14 +1,17 @@
 <img src="https://github.com/Karamsidhu/Karamsidhu/blob/main/alexander-sinn-KgLtFCgfC28-unsplash.jpg" alt="Strings of unknown data across the image canvas -- a red heart is highlighted from the text in the center">
 
-<div>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Karam+Sidhu!;" />
-</h1>
-</div>
-
-<div> 
-    <p>Visitor count</p>
-    <img src="https://profile-counter.glitch.me/Karamsidhu/count.svg" alt="Visitor's Count" />    
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Karam+Sidhu!" />
+      </td>
+      <td align="center">
+        <p>Visitor count</p>
+        <img src="https://profile-counter.glitch.me/Karamsidhu/count.svg" alt="Visitor's Count" />    
+      </td>
+    </tr>
+  </table>
 </div>
 
 
