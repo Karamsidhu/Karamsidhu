@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Karam+Sidhu!;" />
+</h1>
+
+<img src="https://github.com/Karamsidhu/Karamsidhu/alexander-sinn-KgLtFCgfC28-unsplash.jpg" alt="Strings of unknown data across the image canvas -- a red heart is highlighted from the text in the center">
+
 
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/Karamsidhu/count.svg" alt="Visitor's Count" />
 </div>
 
-
-![hippo](https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png)
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Karam+Sidhu!;" />
-</h1>
 
 ###  a Bachelor of Commerce graduate interested in project management, business strategy, and data analytics.
 
@@ -29,6 +28,30 @@
   <a href="https://karam-sidhu.com/" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
   </a>
+</div>
+
+<hr>
+
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=r,c,react,ts,nodejs,sql,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,git" />
+</p>
+
+<hr>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Karamsidhu&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Karamsidhu's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Karamsidhu&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Karamsidhu's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Karamsidhu&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Karamsidhu's Most Used Languages" />
 </div>
 
 <hr>
