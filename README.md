@@ -1,44 +1,16 @@
-<img src="https://github.com/Karamsidhu/Karamsidhu/blob/main/alexander-sinn-KgLtFCgfC28-unsplash.jpg" alt="Strings of unknown data across the image canvas -- a red heart is highlighted from the text in the center">
-
 ### I'm a Bachelor of Commerce graduate with interests in data analytics, business strategy, and systems design.
 
 - 🌱 Check out my **[Website](https://karam-sidhu.com/)**
-- 💬 Ask me about **R, C, React...or anything [here!](https://github.com/Karamsidhu/Karamsidhu/issues)**
-
-<br>
-
-<div align="center">
-  <a href="karam02sidhu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/karam-sidhu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<hr>
-
-
-## 🛠️ Languages and Tools
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=r,c,react,postgres,python" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,git" />
-</p>
-
+- 🧰 I like using: `.r`, `.sql`, `.c`, `.python`
+- 🗺️ Enjoy plotting with: `.ggplot2`, `PowerBI`, `Tableau` 
+- ✈️ Learned common business supervised models - *Regressions, Decision Tree, Forest, K-Nearest Neighbour*
+- ⚙️ And unsupervised models - *Data Mining, PCA*
+- 📊 I have also learned Conjoint Analysis and A/B testing!
 <hr>
 
 ## ⚡️ Stats
-
 <br>
-
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Karamsidhu&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Karamsidhu's" />
   <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=Karamsidhu&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Karamsidhu's Most Used Languages" />
 </div>
-
-<p>Visitor count</p>
-<img src="https://profile-counter.glitch.me/Karamsidhu/count.svg" alt="Visitor's Count" />    
-<hr>
