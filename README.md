@@ -6,10 +6,6 @@
       <td align="center">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Karam+Sidhu!" />
       </td>
-      <td align="center">
-        <p>Visitor count</p>
-        <img src="https://profile-counter.glitch.me/Karamsidhu/count.svg" alt="Visitor's Count" />    
-      </td>
     </tr>
   </table>
 </div>
@@ -58,4 +54,6 @@
   <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=Karamsidhu&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Karamsidhu's Most Used Languages" />
 </div>
 
+<p>Visitor count</p>
+<img src="https://profile-counter.glitch.me/Karamsidhu/count.svg" alt="Visitor's Count" />    
 <hr>
